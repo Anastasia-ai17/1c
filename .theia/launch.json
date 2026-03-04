@@ -1,0 +1,113 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "Скрипт"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#ЧисловыеЗначения",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "ЧисловыеЗначения"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#СтроковыеЗначения",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "СтроковыеЗначения"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#Дата",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "Дата"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#ТипДата",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "ТипДата"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#ТипВремя",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "ТипВремя"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#ТипДатаВремя",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "ТипДатаВремя"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#ТипДлительность",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "ТипДлительность"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#ТипЧасовойПояс",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "ТипЧасовойПояс"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#ТипБулево",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "ТипБулево"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#ТипСтроковыеЗначения",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "ТипСтроковыеЗначения"
+        },
+        {
+            "type": "sbsl",
+            "name": "Скрипт.sbsl#ТипЧисловыеЗначения",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Скрипт.sbsl",
+            "args": [],
+            "method": "ТипЧисловыеЗначения"
+        }
+    ]
+}
